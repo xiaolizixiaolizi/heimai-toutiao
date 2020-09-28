@@ -1,5 +1,5 @@
 module.exports = {
-  baseUrl: 'http://localhost:9018', // 项目地址
+  baseUrl: 'http://ttapi.research.itcast.cn', // 项目地址
   baseApi: 'https://test.xxx.com/api', // 本地api请求地址,注意：如果你使用了代理，请设置成'/'
   APPID: 'xxx',
   APPSECRET: 'xxx',
